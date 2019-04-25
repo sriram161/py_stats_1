@@ -72,3 +72,7 @@ print(f"The percile of 1.5 value(income) falls on {x} percentile")
 # means: A person whose income is 1.5$ in china in the year 1965 is in 95.5th percentile of the distribution. 
 
 #%%
+china1965.describe()
+
+#%%
+usa1965.describe()
